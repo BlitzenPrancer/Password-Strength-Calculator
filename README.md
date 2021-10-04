@@ -1,2 +1,2 @@
 # Password-Strength-Calculator
-Password Strength Calculator using kotlin
+Password Strength Calculator using Kotlin
